@@ -1,4 +1,4 @@
-#Código de conduta - Dynamics Power Brasil
+# Código de Conduta - Dynamics Power Brasil
 
 Acreditamos em um ambiente onde todas as pessoas se sintam bem-vindas e possam compartilhar seus desafios, problemas e opiniões para que a comunidade possa auxiliar no crescimento de todos. O Código de Conduta é um guia de comportamento para todos os ambientes de nossa comunidade.
 
@@ -48,3 +48,8 @@ Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir ins
 Eventos Presenciais:
 
 Se alguém se envolver em comportamento de assédio, a equipe organizadora poderá tomar todas as medidas que considerar adequadas, incluindo avisar a pessoa ofensora ou expulsá-la da conferência e/ou grupos, com a constatação dos fatos. No caso de eventos pagos, não haverá nenhum reembolso.
+
+Sobre o Código de Conduta:
+
+Este conteúdo foi elaborado com base no Código de Conduta da comunidade .NET São Paulo. Para saber mais a respeito acesse: 
+https://github.com/DotNetSP/Codigo-de-Conduta/blob/main/README.md
