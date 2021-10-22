@@ -1,3 +1,5 @@
+#Código de conduta - Dynamics Power Brasil
+
 Acreditamos em um ambiente onde todas as pessoas se sintam bem-vindas e possam compartilhar seus desafios, problemas e opiniões para que a comunidade possa auxiliar no crescimento de todos. O Código de Conduta é um guia de comportamento para todos os ambientes de nossa comunidade.
 
 🔒 O Dynamics Talks deve ser um lugar seguro e convidativo para pessoas independentemente de:
