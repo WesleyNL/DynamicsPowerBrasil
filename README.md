@@ -2,7 +2,7 @@
 
 Acreditamos em um ambiente onde todas as pessoas se sintam bem-vindas e possam compartilhar seus desafios, problemas e opiniões para que a comunidade possa auxiliar no crescimento de todos. O Código de Conduta é um guia de comportamento para todos os ambientes de nossa comunidade.
 
-🔒 O Dynamics Talks deve ser um lugar seguro e convidativo para pessoas independentemente de:
+🔒 O Dynamics Power Brasil deve ser um lugar seguro e convidativo para pessoas independentemente de:
 
 Gênero, identidade de gênero ou expressão de gênero
 Orientação sexual
@@ -20,7 +20,7 @@ Nós respeitamos os limites, identidade e privacidade das pessoas.
 Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes.
 Nós evitamos tópicos ofensivos como forma de humor.
 Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político.
-Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do Dynamics Talks, como inscrições para novos cursos ou ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
+Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado, salvo ações que sejam divulgadas pelo time oficial do Dynamics Power Brasil, como inscrições para novos cursos ou ou eventos movidos para comunidade, pois garantimos a privacidade de seus dados.
 ✔️Nós trabalhamos ativamente para:
 
 Ser uma comunidade segura.
